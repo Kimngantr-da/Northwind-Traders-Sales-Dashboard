@@ -1,4 +1,4 @@
-# Northwind-Traders-Sales-Dashboard
+# Northwind Traders Sales Performance
 
 # Introduce
 The Northwind database is a sample database originally created by Microsoft to simulate the operations of a fictitious company called "Northwind Traders," which imports and exports specialty foods worldwide. It contains information on customers, orders, products, suppliers, employees, and other aspects related to sales and distribution processes.
